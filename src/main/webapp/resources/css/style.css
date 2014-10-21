@@ -1,0 +1,11 @@
+html, textarea {
+	font-size: medium;
+}
+
+tr.odd td {
+	background-color: rgb(255, 170, 153)
+}
+
+tr.even td {
+	background-color: rgb(255, 217, 178)
+}
